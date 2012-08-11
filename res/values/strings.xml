@@ -4,5 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Colors</string>
     <string name="title_activity_main">Drawing (proof-of-concept)</string>
+    <string name="title_activity_colors">Drawing (proof-of-concept)</string>
 
 </resources>
